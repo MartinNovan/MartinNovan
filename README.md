@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there! I'm Martin Novan 👨‍💻
 
-<!--
-**MartinNovan/MartinNovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer, always eager to learn and work on exciting projects. Here's a little more about me:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently exploring **.NET MAUI** and **3D printing scripts**.
+- 🛠️ I enjoy working with languages like **C#, Python, SQL**, and many more.
+- 🎓 I'm constantly improving through school projects and personal endeavors.
+- 📖 I love combining my knowledge to create unique and innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🗂️ My Repositories
+### 🔍 [**`Programming`**](https://github.com/MartinNovan/Programovani)
+This repository showcases various assignments and personal projects, including:
+
+- **Languages**: HTML, CSS, JavaScript, Python, C#, and more.
+- **Frameworks**: React, Bootstrap.
+- **Databases**: MySQL, SQL.
+
+---
+
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=martinnovan&show_icons=true&theme=radical" alt="Your GitHub Stats" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinnovan&layout=compact&theme=radical" alt="Top Languages" width="400px"/>
+</div>
+
+---
+
+## 🌐 Connect with Me
+- 📧 Email: [martinnovan01@gmail.com](mailto:martinnovan01@gmail.com)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/martin-novan-04939b2a6/)
