@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 ---
 
 ## 🗂️ My Repositories
-### 🔍 [**`Programming`**](https://github.com/MartinNovan/Programovani)
+### 🔍 [**`Programming`**](https://github.com/MartinNovan/Programming)
 This repository showcases various assignments and personal projects, including:
 
 - **Languages**: HTML, CSS, JavaScript, Python, C#, and more.
