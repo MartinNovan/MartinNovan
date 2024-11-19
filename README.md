@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 This repository showcases various assignments and personal projects, including:
 
 - **Languages**: HTML, CSS, JavaScript, Python, C#, and more.
-- **Frameworks**: React, Bootstrap.
+- **Frameworks**: .NET, React, Bootstrap.
 - **Databases**: MySQL, SQL.
 
 ---
