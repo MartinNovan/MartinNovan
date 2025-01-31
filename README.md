@@ -30,6 +30,7 @@ This repository is Czech version of my Arch Linux guide i made. Guide includes t
 - **And much more**: Like some advanced topics, configurations and more.
 
 Still this isn't as good as [official Arch Linux Wiki](https://wiki.archlinux.org/title/Main_page) (most of the information is from here, just summarized.) 
+(I will make one more guide in english, just need time to transtale it from my mother language)
 
 ---
 
