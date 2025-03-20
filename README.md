@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - 🛠️ I enjoy working with languages like **C#, Python, SQL**, and many more.
 - 🎓 I'm constantly improving through school projects and personal endeavors.
 - 📖 I love combining my knowledge to create unique and innovative solutions.
-
+- 🖨️ 
 ---
 
 ## 🗂️ My Repositories
@@ -19,18 +19,28 @@ This repository showcases various assignments and personal projects, including:
 - **.NET UI frameworks/toolkits**: WPF, MAUI, AvaloniaUI
 - **Databases**: MySQL, SQL, Microsoft SQL
 
+### 🖨️ [**`Endeaxim-3`**](https://github.com/MartinNovan/Endeaxim-3)
+Upgrade kit for Creality Ender 3 3D printer:
+
+- **Hardware Upgrades**: Dual Z-axis, Linear Rail System
+- **Electronics**: Bigtreetech SKR 2 mainboard, Meanwell PSU
+- **Extruder**: Creality Sprite Extruder
+- **Firmware**: Klipper on Raspberry Pi
+- **Precision**: STEP files for precise models
+- **Speed**: Currently able to match Prusa MK4 speed
+- **Future Plans**: Support for more boards, enhanced cooling, Marlin support, enclosure support
+
 ### 🐧 [**`My Arch Linux Guide CZ`**](https://github.com/MartinNovan/MyArchLinuxGuideCZ)
-This repository is Czech version of my Arch Linux guide i made. Guide includes topics like:
+Czech version of my Arch Linux guide including:
 
-- **Installation**: How to install Arch Linux on your computer
-- **Basic Linux info**: Some basic info you should know about Linux.
-- **Useful commands**: Some commands that will make your life easier.
-- **Troubleshooting**: Some of the basic troubleshooting steps you shold make when facing an issue.
-- **System configuration**: Info how to configure your Linux for your usage.
-- **And much more**: Like some advanced topics, configurations and more.
+- **Installation**: Step-by-step installation guide
+- **System Configuration**: Essential setup and optimization
+- **Troubleshooting**: Common issues and solutions
+- **Advanced Topics**: Custom configurations and tips
+- **Commands Cheatsheet**: Useful daily commands
 
-Still this isn't as good as [official Arch Linux Wiki](https://wiki.archlinux.org/title/Main_page) (most of the information is from here, just summarized.) 
-(I will make one more guide in english, just need time to transtale it from my mother language)
+Still this isn't as good as [official Arch Linux Wiki](https://wiki.archlinux.org/title/Main_page) (most of the information is from here, just summarized.)  
+*(English version in preparation)*
 
 ---
 
