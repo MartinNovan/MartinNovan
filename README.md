@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - 🛠️ I enjoy working with languages like **C#, Python, SQL**, and many more.
 - 🎓 I'm constantly improving through school projects and personal endeavors.
 - 📖 I love combining my knowledge to create unique and innovative solutions.
-- 🖨️ 
+- 🖨️ I am working on my modified Ender-3, currently as Endeaxim-3 project
 ---
 
 ## 🗂️ My Repositories
