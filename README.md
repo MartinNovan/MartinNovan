@@ -47,8 +47,8 @@ Still this isn't as good as [official Arch Linux Wiki](https://wiki.archlinux.or
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinnovan&show_icons=true&theme=radical" alt="Your GitHub Stats" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinnovan&layout=compact&theme=radical" alt="Top Languages" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=martinnovan&show_icons=true&theme=radical" alt="Your GitHub Stats" width="400px" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinnovan&layout=compact&theme=radical" alt="Top Languages" width="400px"height="180px"/>
 </div>
 
 ---
