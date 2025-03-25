@@ -30,6 +30,15 @@ Upgrade kit for Creality Ender 3 3D printer:
 - **Speed**: Currently able to match Prusa MK4 speed
 - **Future Plans**: Support for more boards, enhanced cooling, Marlin support, enclosure support
 
+### 🐧 [**`My Arch Linux Guide`**](https://github.com/MartinNovan/MyArchLinuxGuide)
+English version of my Arch Linux guide including:
+
+- **Installation**: Step-by-step installation guide
+- **System Configuration**: Essential setup and optimization
+- **Troubleshooting**: Common issues and solutions
+- **Advanced Topics**: Custom configurations and tips
+- **Commands Cheatsheet**: Useful daily commands
+
 ### 🐧 [**`My Arch Linux Guide CZ`**](https://github.com/MartinNovan/MyArchLinuxGuideCZ)
 Czech version of my Arch Linux guide including:
 
@@ -40,7 +49,6 @@ Czech version of my Arch Linux guide including:
 - **Commands Cheatsheet**: Useful daily commands
 
 Still this isn't as good as [official Arch Linux Wiki](https://wiki.archlinux.org/title/Main_page) (most of the information is from here, just summarized.)  
-*(English version in preparation)*
 
 ---
 
