@@ -30,7 +30,7 @@ Upgrade kit for Creality Ender 3 3D printer:
 - **Speed**: Currently able to match Prusa MK4 speed
 - **Future Plans**: Support for more boards, enhanced cooling, Marlin support, enclosure support
 
-### 🖥️ [**`SVPM`**](https://github.com/MartinNovan/SVPM)
+### 🖥️ [**`SVPM`**](https://github.com/MartinNovan/SVPM-Simple-Virtual-Pc-manegement/)
 **System for Virtual PC Management** is a tool for managing virtual PCs, customers, accounts, and their relationships. Key features include:
 
 - **Customer Management**: Add, update, delete, and retrieve customer data.
