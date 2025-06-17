@@ -30,6 +30,18 @@ Upgrade kit for Creality Ender 3 3D printer:
 - **Speed**: Currently able to match Prusa MK4 speed
 - **Future Plans**: Support for more boards, enhanced cooling, Marlin support, enclosure support
 
+### 🖥️ [**`SVPM`**](https://github.com/MartinNovan/SVPM)
+**System for Virtual PC Management** is a tool for managing virtual PCs, customers, accounts, and their relationships. Key features include:
+
+- **Customer Management**: Add, update, delete, and retrieve customer data.
+- **Virtual PC Management**: Manage virtual PCs with unique names and configurations.
+- **Account Management**: Handle accounts linked to virtual PCs.
+- **Mapping Management**: Link customers to virtual PCs and manage relationships.
+- **Auditing**: Track all changes with detailed audit logs.
+- **Security**: Data integrity is ensured through hash verification.
+
+For more details, check out the [RELEASE NOTES](https://github.com/MartinNovan/SVPM-Simple-Virtual-Pc-manegement/releases/latest).
+
 ### 🐧 [**`My Arch Linux Guide`**](https://github.com/MartinNovan/MyArchLinuxGuide)
 English version of my Arch Linux guide including:
 
@@ -38,17 +50,6 @@ English version of my Arch Linux guide including:
 - **Troubleshooting**: Common issues and solutions
 - **Advanced Topics**: Custom configurations and tips
 - **Commands Cheatsheet**: Useful daily commands
-
-### 🐧 [**`My Arch Linux Guide CZ`**](https://github.com/MartinNovan/MyArchLinuxGuideCZ)
-Czech version of my Arch Linux guide including:
-
-- **Installation**: Step-by-step installation guide
-- **System Configuration**: Essential setup and optimization
-- **Troubleshooting**: Common issues and solutions
-- **Advanced Topics**: Custom configurations and tips
-- **Commands Cheatsheet**: Useful daily commands
-
-Still this isn't as good as [official Arch Linux Wiki](https://wiki.archlinux.org/title/Main_page) (most of the information is from here, just summarized.)  
 
 ---
 
