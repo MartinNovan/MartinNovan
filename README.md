@@ -31,7 +31,7 @@ Upgrade kit for Creality Ender 3 3D printer:
 - **Future Plans**: Support for more boards, enhanced cooling, Marlin support, enclosure support
 
 ### 🖥️ [**`SVPM`**](https://github.com/MartinNovan/SVPM-Simple-Virtual-Pc-manegement/)
-**System for Virtual PC Management** is a tool for managing virtual PCs, customers, accounts, and their relationships. Key features include:
+**Simple Virtual PC Management** is a tool for managing virtual PCs, customers, accounts, and their relationships. Key features include:
 
 - **Customer Management**: Add, update, delete, and retrieve customer data.
 - **Virtual PC Management**: Manage virtual PCs with unique names and configurations.
