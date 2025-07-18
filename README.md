@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer, always eager to learn and work on exciting projects. Here's a little more about me:
 
 - 🐧 Fan of Arch Linux!
-- 🌱 I’m currently exploring **.NET MAUI** and **3D printing scripts**.
+- 🌱 I’m currently exploring **.NET MAUI**, **3D printing scripts** and **Avalonia UI Framework**.
 - 🛠️ I enjoy working with languages like **C#, Python, SQL**, and many more.
 - 🎓 I'm constantly improving through school projects and personal endeavors.
 - 📖 I love combining my knowledge to create unique and innovative solutions.
