@@ -59,9 +59,3 @@ English version of my Arch Linux guide including:
   <img src="https://github-readme-stats.vercel.app/api?username=martinnovan&show_icons=true&theme=radical" alt="Your GitHub Stats" width="400px" height="190px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinnovan&layout=compact&theme=radical" alt="Top Languages" width="400px"height="180px"/>
 </div>
-
----
-
-## 🌐 Connect with Me
-- 📧 Email: [martinnovan01@gmail.com](mailto:martinnovan01@gmail.com)
-- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/martin-novan-04939b2a6/)
